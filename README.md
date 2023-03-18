@@ -1,6 +1,8 @@
 # minipj_iot
 This repository is a miniproject for IoT subject.
 
+[Video explian of the project in Thai](https://youtu.be/ysBi2S0aeLs)
+
 ## web site get data from database
 - display state of the project
 ![](https://github.com/Rus1999/minipj_iot/blob/main/imgs/state-site.png)
