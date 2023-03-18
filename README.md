@@ -36,3 +36,24 @@ This repository is a miniproject for IoT subject.
 ![](https://github.com/Rus1999/minipj_iot/blob/main/imgs/pj.jpg)
 ![](https://github.com/Rus1999/minipj_iot/blob/main/imgs/overview.jpg)
 
+## Diagram
+- full diagram
+![](https://github.com/Rus1999/minipj_iot/blob/main/paint.net/full.png)
+- button <br>
+![](https://github.com/Rus1999/minipj_iot/blob/main/paint.net/button.png)
+- led
+![](https://github.com/Rus1999/minipj_iot/blob/main/paint.net/led.png)
+- led /w relay
+![](https://github.com/Rus1999/minipj_iot/blob/main/paint.net/led%2Brelay.png)
+- lcd
+![](https://github.com/Rus1999/minipj_iot/blob/main/paint.net/lcd.png)
+- dht11
+![](https://github.com/Rus1999/minipj_iot/blob/main/paint.net/dht.png)
+- soil moisture sensor
+![](https://github.com/Rus1999/minipj_iot/blob/main/paint.net/moisture.png)
+- fan
+![](https://github.com/Rus1999/minipj_iot/blob/main/paint.net/fan.png)
+- pump
+![](https://github.com/Rus1999/minipj_iot/blob/main/paint.net/pump.png)
+- relay
+![](https://github.com/Rus1999/minipj_iot/blob/main/paint.net/relay.png)
